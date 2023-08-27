@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 20px;
+    background-color: rgb(189, 212, 212);
+}
+
+
+h1,h2,p,.p, .ul{
+    text-align: center;
+}
+
+h1{
+    color: blueviolet;
+}
+
+.h1{
+    text-align: center;
+}
+
+
+
+
+
